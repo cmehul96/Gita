@@ -11,9 +11,48 @@ const audioFiles = {
 const images = {
     1: 
         ["https://i.imgur.com/otf92SC.png", "https://i.imgur.com/y3B0YHz.jpeg", "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.3.webp",
-        ]
-    
-} 
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.4.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.5.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.6.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.7.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.8.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.9.webp",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.10.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.11.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.12.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.13.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.14.webp",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.15.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.16.webp",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.17.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.18.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.19.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.20.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.21.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.22.webp",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.23.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.24.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.25.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.26.webp",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.27.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.28.webp",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.29.jpg?raw=true",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.30.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.31.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.32.webp",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.33.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.34.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.35.webp",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.36.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.37.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.38.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.39.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.40.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.41.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.42.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.43.webp"
+],
+}; 
 
 const chapters = [
     "Arjuna Vishada Yog",
