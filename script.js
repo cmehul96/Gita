@@ -40,9 +40,13 @@ const images = {
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.28.webp",
     "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.29.jpg?raw=true",
     "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.30.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.33_new.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.31.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.32.webp",
     "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.33.jpg?raw=true",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.37_new.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.38_new.webp",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.39_new.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.34.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.35.webp",
     "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.36.jpg?raw=true",
@@ -128,7 +132,7 @@ const verses = {
         "Sanjay said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief."
     ],
     2: [
-        "Sanjay said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusudan, Krsna, spoke the following words.",
+    "Sanjay said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusudan, Krsna, spoke the following words.",
     "The Blessed Lord said: My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the value of life. They lead not to higher planets but to infamy.",
     "O son of Prtha, do not yield to this degrading impotence. It does not become you. Give up such petty weakness of heart and arise, O chastiser of the enemy.",
     "Arjuna said: O killer of Madhu, Krsna, how can I counterattack with arrows in battle men like Bhisma and Drona, who are worthy of my worship?",
