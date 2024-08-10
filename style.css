@@ -39,7 +39,6 @@ body {
     margin-top:16px;
     margin-left: 20px;
     margin-right: 20px;
-    color: #CC9366;
 }
 
 .navigation h2 {
@@ -52,6 +51,7 @@ body {
     border: none;
     font-size: 20px;
     cursor: pointer;
+    color: #CC9366;
 }
 
 .image-container {
