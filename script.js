@@ -3,7 +3,7 @@ let currentVerse = 1;
 
 const audioFiles = {
     1: [
-        "https://on.soundcloud.com/8bLsksz8JxS5ZS7V7", 
+        "https://github.com/cmehul96/Gita/raw/main/Gita_audio/ZwLDvy8o.mp3", 
         "https://on.soundcloud.com/8bLsksz8JxS5ZS7V7"
     ]
 };
