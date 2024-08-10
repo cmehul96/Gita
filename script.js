@@ -93,11 +93,11 @@ const verses = {
         "On the other side, both Lord Krishna and Arjuna, stationed on a great chariot drawn by white horses, sounded their transcendental conchshells.",
         "Lord Krishna blew His conchshell called Panchajanya, Arjuna blew his, the Devadatta, and Bhima, the voracious eater and performer of herculean tasks, blew his terrific conchshell called Paundra.",
         "King Yudhishthira, the son of Kunti, blew his conchshell, the Anantavijaya, and Nakula and Sahadeva blew the Sughosha and Manipushpaka.",
-        "That great archer the King of Kashi, the great fighter Shikhandi, Dhrishtadyumna, Virata, the unconquerable Satyaki,..."
+        "That great archer the King of Kashi, the great fighter Shikhandi, Dhrishtadyumna, Virata, the unconquerable Satyaki...",
         "Drupada, the sons of Draupadi, and the others, O King, such as the mighty-armed son of Subhadra, all blew their respective conchshells.",
         "The blowing of these different conchshells became uproarious, vibrating both in the sky and on the earth. It shattered the hearts of the sons of Dhritarashtra.",
         "At that time Arjuna, the son of Pandu, seated in the chariot bearing the flag marked with Hanuman, took up his bow and prepared to shoot his arrows, looking at the sons of Dhritarashtra. O King, Arjuna then spoke to Hrishikesha (Krishna).",
-        "Arjuna said: O infallible one, please draw my chariot between the two armies..."
+        "Arjuna said: O infallible one, please draw my chariot between the two armies...",
         "so that I may see those present here, who desire to fight, and with whom I must contend in this great trial of arms.",
         "Let me see those who have come here to fight, wishing to please the evil-minded son of Dhritarashtra.",
         "Sanjay said: O descendant of Bharata, having thus been addressed by Arjuna, Lord Krishna drew the fine chariot up in the midst of the armies of both parties.",
@@ -107,14 +107,14 @@ const verses = {
         "Arjuna said: My dear Krishna, seeing my friends and relatives present before me in such a fighting spirit, I feel the limbs of my body quivering and my mouth drying up.",
         "My whole body is trembling, my hair is standing on end, my bow Gandiva is slipping from my hand, and my skin is burning.",
         "I am now unable to stand here any longer. I am forgetting myself, and my mind is reeling. I see only causes of misfortune, O Krishna, killer of the Kesi demon.",
-        "I do not see how any good can come from killing my own kinsmen in this battle."
+        "I do not see how any good can come from killing my own kinsmen in this battle.",
         "Nor can I, my dear Krishna, desire any subsequent victory, kingdom, or happiness.",
         "O Govinda, of what avail to us are a kingdom, happiness, or even life itself when all those for whom we may desire them are now arrayed on this battlefield?",
-        "O Madhusudana, when teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives are ready to give up their lives and properties and are standing before me."
+        "O Madhusudana, when teachers, fathers, sons, grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives are ready to give up their lives and properties and are standing before me.",
         "Why should I wish to kill them, even though they might otherwise kill me? If we kill the sons of Dhritarashtra, what satisfaction will we derive from the dominion over the three worlds, what to speak of this Earth?",
-        "O Maintainer of all living entities, what pleasure will we derive from killing the sons of Dhritarasthra? Even though they may be aggressors, sin will certainly come upon us if we slay them."
+        "O Maintainer of all living entities, what pleasure will we derive from killing the sons of Dhritarasthra? Even though they may be aggressors, sin will certainly come upon us if we slay them.",
         "Hence, it does not behoove us to kill our own cousins, the sons of Dhritarashtra, and friends. O Madhav (Krishna), how can we hope to be happy by killing our own kinsmen?",
-        "O Janardana, although these men, their hearts overtaken by greed, see no fault in killing one's family or quarreling with friends..."
+        "O Janardana, although these men, their hearts overtaken by greed, see no fault in killing one's family or quarreling with friends...",
         "why should we, who can see the crime in destroying a family, engage in these acts of sin?",
         "With the destruction of the dynasty, the eternal family tradition is vanquished, and thus the rest of the family becomes involved in irreligion.",
         "When irreligion is prominent in the family, O Krishna, the women of the family become polluted, and from the degradation of womanhood, O descendant of Vrsni, comes unwanted progeny.",
