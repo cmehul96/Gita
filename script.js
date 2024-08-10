@@ -144,7 +144,7 @@ const verses = {
     "The Blessed Lord said: While speaking learned words, you are mourning for what is not worthy of grief. Those who are wise lament neither for the living nor for the dead.",
     "Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.",
     "As the embodied soul continually passes, in this body, from boyhood to youth to old age, similarly the soul passes into another body at death. The wise are not bewildered by this.",
-    "O son of Kunti, the nonpermanent appearance of happiness and distress, and their disappearance in due course, are like the appearance and disappearance of winter and summer seasons. They arise from sense perception, O scion of Bharata, and one must learn to tolerate them without being disturbed.",
+    "O son of Kunti, the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. One must learn to tolerate them without being disturbed.",
     "O best among men [Arjuna], the person who is not disturbed by happiness and distress and is steady in both is certainly eligible for liberation.",
     "Those who are seers of the truth have concluded that of the nonexistent there is no endurance, and of the existent there is no cessation. This seers have concluded by studying the nature of both.",
     "Know that which pervades the entire body is indestructible. No one is able to destroy the imperishable soul.",
