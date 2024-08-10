@@ -3,8 +3,8 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-color: #f5c6c6;
-    color: #4e0606;
+    background-color: #20203D;
+    color: #CC9366;
 
 }
 
@@ -18,8 +18,8 @@ body {
 .header {
     text-align: center;
     padding: 10px;
-    background-color: #f5c6c6;
-    border-bottom: 1px solid #000;
+    background-color: #20203D;
+    border-bottom: 1px solid #CC9366;
 }
 
 .header h1 {
@@ -60,7 +60,7 @@ body {
     overflow: hidden;
     position: relative;
     border-radius: 24px;
-    border: 1px solid #a13c3c;
+    border: 1px solid #CC9366;
     box-shadow: 0px 0px 20px 2px rgb(78, 6, 6, .4);
 }
 
@@ -103,10 +103,10 @@ body {
 
 
 .text {
-    background-color: #a13c3c;
+    background-color: #CC9366;
     padding: 16px;
     border-radius: 24px;
-    color: white;
+    color: black;
     margin-top: 16px;
     margin-left: 20px;
     margin-right: 20px;
@@ -133,11 +133,11 @@ body {
 
 .footer-button {
     background: none;
-    border: 2px solid #4e0606;
+    border: 2px solid #CC9366;
     padding: 4px 8px;
     border-radius: 16px;
     cursor: pointer;
-    color: #4e0606;
+    color: #CC9366;
     font-size: 16px;
     width: 120px;
     box-shadow: 0px 0px 20px 2px rgb(78, 6, 6, .4);
