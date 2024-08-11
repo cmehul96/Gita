@@ -132,7 +132,7 @@ const verses = {
     ],
     2: [
     "Sanjay said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusudan, Krsna, spoke the following words.",
-    "The Blessed Lord said: My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the value of life. They lead not to higher planets but to infamy.",
+    "The Blessed Lord said: My dear Arjuna, how have these impurities come upon you? They are not at all befitting a man who knows the value of life. They lead not to higher abodes but to infamy.",
     "O Parth, it does not befit you to yield to this unmanliness. Give up such petty weakness of heart and arise, O vanquisher of enemies.",
     "Arjun said: O Madhusudan, how can I shoot arrows in battle on men like Bheeshma and Dronacharya, who are worthy of my worship, O destroyer of enemies?",
     "It would be better to live in this world by begging, than to enjoy life by killing these noble elders, who are my teachers. If we kill them, the wealth and pleasures we enjoy will be tainted with blood.",
