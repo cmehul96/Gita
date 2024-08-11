@@ -279,9 +279,9 @@ const verses = {
     "That is the way of the spiritual and godly life, after attaining which a man is not bewildered. Being so situated, even at the hour of death, one can enter into the kingdom of God."
     ],
     3: [
-    "Arjuna said: O Janardana, O Kesava, why do You urge me to engage in this ghastly warfare, if You think that intelligence is better than fruitive work?",
+    "Arjuna said: O Janardana, why do You urge me to engage in this ghastly warfare, if You think that intelligence is better than fruitive work?",
     "My intelligence is bewildered by Your equivocal instructions. Therefore, please tell me decisively which will be most beneficial for me.",
-    "The Blessed Lord said: O sinless Arjuna, I have already explained that there are two classes of men who try to realize the self. Some are inclined to understand it by empirical, philosophical speculation, and others by devotional service.",
+    "The Blessed Lord said: O sinless Arjuna, I have already explained that there are two paths to realize the self. Some are inclined to understand it by empirical, philosophical speculation, and others by devotional service.",
     "Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection.",
     "Everyone is forced to act helplessly according to the qualities he has acquired from the modes of material nature; therefore, no one can refrain from doing something, not even for a moment.",
     "One who restrains the senses of action but whose mind dwells on sense objects certainly deludes himself and is called a pretender.",
