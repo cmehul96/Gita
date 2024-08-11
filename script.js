@@ -159,7 +159,7 @@ const verses = {
     "If, however, you think that the soul is perpetually born and always dies, still you have no reason to lament, O mighty-armed.",
     "One who has taken birth is sure to die, and after death one is sure to take birth again. Therefore, you should not lament over the inevitable.",
     "All created beings are unmanifest in their beginning, manifest in their interim state, and unmanifest again on death. So why grieve?",
-    "Some look on the soul as amazing, some describe it as amazing, and some hear of it as amazing, while others, even after hearing, cannot understand it at all.",
+    "Some look at the soul as amazing, some describe it as amazing, and some hear of it as amazing, while others, even after hearing, cannot understand it at all.",
     "O Arjun, the soul that dwells within the body is immortal; therefore, you should not mourn for anyone.",
     "Considering your specific duty as a ksatriya(warrior), you should know that there is no better engagement for you than fighting for righteousness; and so there is no need for hesitation.",
     "O Partha, happy are the ksatriyas to whom such fighting opportunities come unsought, opening for them the doors of the heavenly abodes.",
