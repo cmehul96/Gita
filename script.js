@@ -870,25 +870,22 @@ const verses = {
 // }
 
 
-let audioElement = document.getElementById('verse-audio');
-
 function updateContent() {
     console.log(chapters[currentChapter - 1]);
     document.getElementById('chapter-title').innerHTML = chapters[currentChapter - 1];
     document.getElementById('verse-text').innerHTML = `<p>${verses[currentChapter][currentVerse - 1]}</p>`;
     document.getElementById('page-number').textContent = `${currentChapter}.${currentVerse}`;
     document.getElementById('verseImage').src = images[currentChapter][currentVerse - 1];
-    const audioSrc = audioFiles[currentChapter][currentVerse - 1];
+    const verseAudio = document.getElementById("verse-audio");
+    verseAudio.src = audioFiles[currentChapter][currentVerse - 1];
+    verseAudio.play();
 
     document.getElementById('chapter-title').innerHTML = chapterTitle || "No chapter title";
     document.getElementById('verse-text').innerHTML = `<p>${verseText || "No verse text available"}</p>`;
     document.getElementById('page-number').textContent = `${currentChapter}.${currentVerse}`;
     document.getElementById('verseImage').src = imageSrc || "default-image.jpg";
 
-    if (audioSrc) {
-        audioElement.src = audioSrc;
-        audioElement.play(); // Auto-play the audio
-    }
+    
 }
 
 
