@@ -353,7 +353,7 @@ const verses = {
     "Some, inspired by knowledge, offer the functions of all their senses and their life energy in the fire of the controlled mind.",
     "Some offer their wealth as sacrifice, while others offer severe austerities as sacrifice. Some practice the eight-fold path of yogic practices, and yet others study the scriptures and cultivate knowledge as sacrifice, while observing strict vows.",
     "Still others offer as sacrifice the outgoing breath in the incoming breath, while some offer the incoming breath into the outgoing breath. Some arduously practice prāṇāyām and restrain the incoming and outgoing breaths, purely absorbed in the regulation of the life-energy.",
-    "Yet others curtail their food intake and offer the breath into the life-energy as sacrifice. All these knowers of sacrifice are cleansed of their impurities as a result of such performances."
+    "Yet others curtail their food intake and offer the breath into the life-energy as sacrifice. All these knowers of sacrifice are cleansed of their impurities as a result of such performances.",
     "Those who know the secret of sacrifice, and engaging in it, partake of its remnants that are like nectar, advance toward the Absolute Truth. O best of the Kurus, those who perform no sacrifice find no happiness either in this world or the next.",
     "All these different types of sacrifice are approved by the Vedas, and all of them are born of different types of work. Knowing them as such, you will become liberated.",
     "O subduer of enemies, sacrifice performed in knowledge is superior to any mechanical material sacrifice. O Parth, after all, the sacrifice of work culminates in transcendental knowledge.",
