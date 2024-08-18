@@ -477,14 +477,15 @@ const verses = {
     "The humble sages, by virtue of true knowledge, see with equal vision a Brahmin, a cow, an elephant, a dog, and a dog-eater [outcaste].",
     "Those whose minds are established in equality of vision conquer the cycle of birth and death in this very life. They possess the flawless qualities of God, and are therefore seated in the Absolute Truth.",
     "Established in God, having a firm understanding of divine knowledge and not hampered by delusion, they neither rejoice in getting something pleasant nor grieve on experiencing the unpleasant.",
-    "Such a liberated person is not attracted to material sense pleasure but is always in trance, enjoying the pleasure within. In this way, the self-realized person enjoys unlimited happiness, for he concentrates on the Supreme.",
-    "An intelligent person does not take part in the sources of misery, which are due to contact with the material senses. O son of Kunti, such pleasures have a beginning and an end, and so the wise man does not delight in them.",
-    "Before giving up this present body, if one is able to tolerate the urges of the material senses and check the force of desire and anger, he is well situated and is happy in this world.",
-    "One whose happiness is within, who is active and rejoices within, and whose aim is inward is actually the perfect mystic. He is liberated in the Supreme, and ultimately he attains the Supreme.",
-    "Those who are beyond the dualities that arise from doubts, whose minds are engaged within, who are always busy working for the welfare of all living beings, and who are free from all sins achieve liberation in the Supreme.",
-    "Those who are free from anger and all material desires, who are self-realized, self-disciplined, and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future.",
-    "Shutting out all external sense objects, keeping the eyes and vision concentrated between the two eyebrows, suspending the inward and outward breaths within the nostrils—thus controlling the mind, senses, and intelligence, the transcendentalist becomes free from desire, fear, and anger. One who is always in this state is certainly liberated.",
-    "A person in full consciousness of Me, knowing Me to be the ultimate beneficiary of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attains peace from the pangs of material miseries."
+    "Those who are not attached to external sense pleasures realize divine bliss in the self. Being united with God through Yog, they experience unending happiness.",
+    "The pleasures that arise from contact with the sense objects, though appearing as enjoyable to worldly-minded people, are verily a source of misery. O son of Kunti, such pleasures have a beginning and an end, so the wise do not delight in them.",
+    "Those persons are yogis, who before giving up the body are able to check the forces of desire and anger; and they alone are happy.",
+    "Those who are happy within themselves, enjoying the delight of God within, and are illumined by the inner light, such yogis are united with the Lord and are liberated from material existence.",
+    "Those holy persons, whose sins have been purged, whose doubts are annihilated, whose minds are disciplined, and who are devoted to the welfare of all beings, attain God and are liberated from material existence.",
+    "For those sanyāsīs, who have broken out of anger and lust through constant effort, who have subdued their mind, and are self-realized, liberation from material existence is both here and hereafter.",
+    "Shutting out all thoughts of external enjoyment, with the gaze fixed on the space between the eye-brows, equalizing the flow of the incoming and outgoing breath in the nostrils,...",
+    "and thus controlling the senses, mind, and intellect, the sage who becomes free from desire and fear, always lives in freedom.",
+    "Having realized Me as the enjoyer of all sacrifices and austerities, the Supreme Lord of all the worlds and the selfless friend of all living beings, My devotee attains peace."
     ],
     6: [
         "The Blessed Lord said: One who is unattached to the fruits of his work and who works as he is obligated is in the renounced order of life, and he is the true mystic: not he who lights no fire and performs no work.",
