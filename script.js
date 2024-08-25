@@ -630,6 +630,7 @@ const verses = {
     "Having realized Me as the enjoyer of all sacrifices and austerities, the Supreme Lord of all the worlds and the selfless friend of all living beings, My devotee attains peace."
     ],
     6: [
+    [
     "A person who performs their duty without attachment, surrendering the results to the Supreme, is unaffected by sinful action, just as a lotus leaf is untouched by water.",
     "Yogis, abandoning attachment, perform actions with body, mind, intelligence, and senses, solely for the purpose of purification.",
     "The self-controlled yogi, having renounced all material desires, becomes fully satisfied in the self by the purified mind.",
@@ -667,7 +668,17 @@ const verses = {
     "By virtue of the divine consciousness of their previous life, they automatically become attracted to the yogic principles—even without seeking them. Such an inquisitive transcendentalist, striving for yoga, stands always above the ritualistic principles of the scriptures.",
     "And when the yogi engages themselves with sincere endeavor in making further progress, being washed of all contaminations, then, ultimately, after many, many births of practice, they attain the supreme goal.",
     "The yogi is greater than the ascetic, greater than the empiricist, and greater than the fruitive worker. Therefore, O Arjuna, in all circumstances, be a yogi.",
-    "And of all yogis, the one who, with great faith, always abides in Me, thinks of Me within themselves, and renders transcendental loving service to Me, is the most intimately united with Me in yoga and is the highest of all. That is My opinion."
+    "And of all yogis, the one who, with great faith, always abides in Me, thinks of Me within themselves, and renders transcendental loving service to Me, is the most intimately united with Me in yoga and is the highest of all. That is My opinion.",
+    "The one who sees the joy and suffering of all beings in a similar way as they see their own, is considered the best of all yogis.",
+    "The Blessed Lord said: O Partha, for a person who has conquered the mind, the mind becomes their best friend. But for one who has failed to do so, the mind remains the greatest enemy.",
+    "For one who has conquered the mind, who is peaceful and of steady intelligence, such a person is already liberated in the Supreme, and remains unaffected whether in honor or dishonor.",
+    "The yogi, who is full of faith, who always controls the mind, who is united with the Supreme, knows that all beings are one in essence.",
+    "The yogi who has withdrawn from external distractions, who is free from attachment and who is balanced in both pleasure and pain, is known to be truly united with the Supreme.",
+    "The yogi who has attained self-realization, having subdued their senses and mind, finds infinite happiness within, and enjoys eternal peace.",
+    "The yogi who practices with dedication, who has faith, and who follows the path of meditation with an unwavering mind, surely attains the ultimate goal.",
+    "The person who sees Me in all things, and all things in Me, never becomes lost to Me, nor do I become lost to them.",
+    "O Arjuna, the yogi who is most devoted to Me, with a heart full of faith, and who is always absorbed in Me, is the highest of all."
+];
 ],
     7: [
         "The Blessed Lord said: Now hear, O son of Pritha, how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt.",
