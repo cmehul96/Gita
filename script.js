@@ -630,7 +630,6 @@ const verses = {
     "Having realized Me as the enjoyer of all sacrifices and austerities, the Supreme Lord of all the worlds and the selfless friend of all living beings, My devotee attains peace."
     ],
     6: [
-    [
     "A person who performs their duty without attachment, surrendering the results to the Supreme, is unaffected by sinful action, just as a lotus leaf is untouched by water.",
     "Yogis, abandoning attachment, perform actions with body, mind, intelligence, and senses, solely for the purpose of purification.",
     "The self-controlled yogi, having renounced all material desires, becomes fully satisfied in the self by the purified mind.",
@@ -678,7 +677,6 @@ const verses = {
     "The yogi who practices with dedication, who has faith, and who follows the path of meditation with an unwavering mind, surely attains the ultimate goal.",
     "The person who sees Me in all things, and all things in Me, never becomes lost to Me, nor do I become lost to them.",
     "O Arjuna, the yogi who is most devoted to Me, with a heart full of faith, and who is always absorbed in Me, is the highest of all."
-];
 ],
     7: [
         "The Blessed Lord said: Now hear, O son of Pritha, how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt.",
