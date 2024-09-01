@@ -58,7 +58,7 @@ const images = {
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.43.webp"
 ],
     2: [
-    "https://i.imgur.com/otf92SC.png",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/2.01.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/2.2.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/2.3.webp",
     "https://github.com/cmehul96/Gita/blob/main/Gita_Images/2.4.jpg?raw=true",
