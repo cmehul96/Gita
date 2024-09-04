@@ -9,8 +9,10 @@ const audioFiles = {
 };
 
 const images = {
-    1: 
-        ["https://i.imgur.com/otf92SC.png", "https://i.imgur.com/y3B0YHz.jpeg", "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.3.webp",
+    1: [
+    "https://i.imgur.com/otf92SC.png",
+    "https://i.imgur.com/y3B0YHz.jpeg",
+    "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.3.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.4.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.5.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.6.webp",
