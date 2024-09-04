@@ -559,7 +559,7 @@ const images = {
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/13.33.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/13.34.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/13.35.webp"
-];
+],
 }; 
 
 const chapters = [
