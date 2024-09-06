@@ -611,6 +611,32 @@ const images = {
   "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/15.19.webp",
   "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/15.20.webp"
 ],
+    16: [
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.01.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.02.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.03.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.04.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.05.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.06.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.07.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.08.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.09.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.10.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.11.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.12.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.13.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.14.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.15.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.16.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.17.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.18.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.19.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.20.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.21.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.22.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.23.webp",
+  "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/16.24.webp"
+],
 }; 
 
 const chapters = [
