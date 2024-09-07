@@ -668,7 +668,7 @@ const images = {
 ],
 }; 
 
-const chapters = {
+const chapters = [
     "1. Arjuna Vishada Yog",
     "2. Sankhya Yog",
     "3. Karma Yog",
@@ -687,7 +687,7 @@ const chapters = {
     "16. Daivasura Sampad Vibhaga Yog",
     "17. Sraddhatraya Vibhaga Yog",
     "18. Moksha-Sanyasa Yog"
-};
+];
 
 const verses = {
     1: [
