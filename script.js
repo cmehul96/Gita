@@ -669,24 +669,24 @@ const images = {
 }; 
 
 const chapters = [
-    "Arjuna Vishada Yog",
-    "Sankhya Yog",
-    "Karma Yog",
-    "Gnana-Karma-Sanyasa Yog",
-    "Karma-Sanyasa Yog",
-    "Dhyan Yog",
-    "Gnana-Vignana Yog",
-    "Aksara-Brahma Yog",
-    "Raja Vidya Raja Guhya Yog",
-    "Vibhuti Yog",
-    "Vishwarupa Darshana Yog",
-    "Bhakti Yog",
-    "Kshetra-Kshetragna Vibhaga Yog",
-    "Gunatraya Vibhaga Yog",
-    "Purushottama Yog",
-    "Daivasura Sampad Vibhaga Yog",
-    "Sraddhatraya Vibhaga Yog",
-    "Moksha-Sanyasa Yog"
+    "1. Arjuna Vishada Yog",
+    "2. Sankhya Yog",
+    "3. Karma Yog",
+    "4. Gnana-Karma-Sanyasa Yog",
+    "5. Karma-Sanyasa Yog",
+    "6. Dhyan Yog",
+    "7. Gnana-Vignana Yog",
+    "8. Aksara-Brahma Yog",
+    "9. Raja Vidya Raja Guhya Yog",
+    "10. Vibhuti Yog",
+    "11. Vishwarupa Darshana Yog",
+    "12. Bhakti Yog",
+    "13. Kshetra-Kshetragna Vibhaga Yog",
+    "14. Gunatraya Vibhaga Yog",
+    "15. Purushottama Yog",
+    "16. Daivasura Sampad Vibhaga Yog",
+    "17. Sraddhatraya Vibhaga Yog",
+    "18. Moksha-Sanyasa Yog"
 ];
 
 const verses = {
