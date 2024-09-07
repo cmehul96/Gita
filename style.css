@@ -17,8 +17,9 @@ body {
 
 .header img {
     height: 24px;
-    margin-top: 12px;
+    margin-top: 18px;
     text-align: center;
+    display: block;
     /*border-bottom: 1px solid #CC9366;*/
 }
 
