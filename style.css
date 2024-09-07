@@ -57,7 +57,7 @@ body {
     border-radius: 50%;
     cursor: pointer;
     /* transition: background-color 0.3s ease; */
-    box-shadow: 0 0px 5px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0px 2px 1px rgba(0, 0, 0, 0.2);
     border: none;
     color: #816d50;
 }
@@ -124,7 +124,7 @@ body {
     display: flex;
     justify-content: center;  /* Center align horizontally (if needed) */
     align-items: center; 
-    box-shadow: 0px 0px 10px 2px rgb(0, 0, 0, .1);
+    box-shadow: 0px 0px 4px 2px rgb(0, 0, 0, .1);
 }
 
 .text p {
@@ -151,6 +151,7 @@ body {
     width: 120px;
     height: 32px;
     border: none;
+    box-shadow: 0px 0px 2px 1px rgb(0, 0, 0, .1);
     /*box-shadow: 0px 0px 20px 2px rgb(78, 6, 6, .4);*/
 }
 
