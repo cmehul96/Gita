@@ -1519,7 +1519,14 @@ en: {
 //     document.getElementById('verse-text').innerHTML = <p>${verses[currentChapter][currentVerse - 1]}</p>;
 //     document.getElementById('page-number').textContent = ${currentChapter}.${currentVerse};
 // }
-
+let currentLanguage = 'en'; // Default language is English
+        // Function to toggle between English and Hindi
+function toggleLanguage() {
+    currentLanguage = currentLanguage === 'en' ? 'hi' : 'en';
+    updateContent();
+    // Update button text
+    document.querySelector('.language-toggle').textContent = currentLanguage === 'en' ? 'Switch to Hindi' : 'Switch to English';
+}
 
 function updateContent() {
     console.log(chapters[curentLanguage][currentChapter - 1]);
@@ -1575,17 +1582,6 @@ function nextVerse() {
     }
     updateContent();
 }
-
-        let currentLanguage = 'en'; // Default language is English
-        let currentVerseIndex = 0;  // Default to the first verse
-
-        // Function to toggle between English and Hindi
-        function toggleLanguage() {
-            currentLanguage = currentLanguage === 'en' ? 'hi' : 'en';
-            updateContent();
-            // Update button text
-            document.querySelector('.language-toggle').textContent = currentLanguage === 'en' ? 'Switch to Hindi' : 'Switch to English';
-        }
 
 window.onload = function() {
     updateContent();
