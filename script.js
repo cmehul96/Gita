@@ -1284,7 +1284,9 @@ const verses = {
   "There are three gates to hell—lust, anger, and greed. These lead to the downfall of the soul. Therefore, one must avoid these three completely.",
   "A person who is free from these three gates of hell, O Arjuna, acts for their own well-being and attains the highest goal.",
   "Those who reject the teachings of the scriptures and act according to their desires do not attain success, happiness, or the supreme goal.",
-  "Therefore, let the scriptures guide you in deciding what to do and what to avoid. Knowing the teachings of the scriptures, perform your duties in this world."
+  "Therefore, let the scriptures guide you in deciding what to do and what to avoid. Knowing the teachings of the scriptures, perform your duties in this world.",
+  "One who ignores the guidance of the scriptures and follows their own desires cannot attain perfection, happiness, or the supreme destination.",
+  "Therefore, always let the scriptures be your guide in deciding what to do and what not to do. Understand the teachings of the scriptures and act accordingly in life."
 ],
     17: [
         "Arjuna said: O Krishna, what is the nature of the faith of those who perform sacrifices and other religious practices with the desire for results? Is it influenced by the three gunas (qualities of nature)?",
