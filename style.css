@@ -24,7 +24,7 @@ body {
 
 .header h1 {
     margin: 0;
-    font-size: 20px;
+    font-size: 12px;
 }
 
 .content {
@@ -44,7 +44,7 @@ body {
 
 .navigation h2 {
     margin: 0;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 .nav-button {
@@ -145,16 +145,17 @@ body {
     border-radius: 24px;
     cursor: pointer;
     color: #826b63;
-    font-size: 8px;
+    font-size: 12px;
     width: 120px;
     height: 32px;
+    border: none;
     /*box-shadow: 0px 0px 20px 2px rgb(78, 6, 6, .4);*/
 }
 
 .page-number {
     font-size: 16px;
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
     border-radius: 50%;
     background-color: #fffefc;
 }
