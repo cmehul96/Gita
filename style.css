@@ -86,20 +86,20 @@ body {
     animation: zoomInLoop 10s infinite ease-in-out; /* Zoom in/out animation */
 }
 
-/* Define the keyframes for the zoom-in effect */
+/* 
 @keyframes zoomInLoop {
     0% {
-        transform: translateX(-50%) scale(1); /* Start without zoom */
+        transform: translateX(-50%) scale(1); 
     }
     50% {
-        transform: translateX(-50%) scale(1.2); /* Zoom in slightly */
+        transform: translateX(-50%) scale(1.2); 
     }
     100% {
-        transform: translateX(-50%) scale(1); /* Zoom out back to original */
+        transform: translateX(-50%) scale(1); 
     }
 }
 
-/* Media query for wider screens */
+
 @media (min-width: 768px) {
     .image-container {
         margin-left: 24px;
@@ -107,12 +107,12 @@ body {
     }
 
     .image-container img {
-        width: calc(100% + 48px); /* Account for the 24px margin on both sides */
+        width: calc(100% + 48px); 
         height: 100%;
         animation: zoomInLoop 10s infinite ease-in-out;
     }
 }
-
+*/
 
 .text {
     background-color: #fffefc;
