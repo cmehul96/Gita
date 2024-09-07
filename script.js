@@ -26,7 +26,7 @@ const images = {
     "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.15.png?raw=true",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.16.webp",
     "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.17_new.jpg?raw=true",
-    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.18_new.png?raw=true",
+    "https://github.com/cmehul96/Gita/blob/main/Gita_Images/1.18.png?raw=true",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.18.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.19.webp",
     "https://raw.githubusercontent.com/cmehul96/Gita/main/Gita_Images/1.20.webp",
