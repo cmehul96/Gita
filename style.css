@@ -19,7 +19,6 @@ body {
     text-align: center;
     padding: 10px;
     background-color: #f6f5f0;
-    margin-bottom: 20px;
     /*border-bottom: 1px solid #CC9366;*/
 }
 
@@ -40,6 +39,7 @@ body {
     margin-top:16px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 20px;
 }
 
 .navigation h2 {
@@ -48,11 +48,16 @@ body {
 }
 
 .nav-button {
-    background: none;
-    border: none;
-    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+    background-color: #816d50; /* Background color for the button */
+    border-radius: 50%;
     cursor: pointer;
-    color: #816d50;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 0px 5px 1px rgba(0, 0, 0, 0.2);
 }
 
 .image-container {
