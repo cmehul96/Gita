@@ -1,5 +1,5 @@
 body {
-    font-family: Nats, sans-serif;
+    font-family: Inter, sans-serif;
     margin: 0;
     padding: 0;
     height: 100vh;
@@ -24,7 +24,7 @@ body {
 
 .header h1 {
     margin: 0;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .content {
