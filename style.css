@@ -51,9 +51,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 16px;
-    height: 16px;
-    background-color: #816d50; /* Background color for the button */
+    width: 24px;
+    height: 24px;
+    background-color: #fffefc; /* Background color for the button */
     border-radius: 50%;
     cursor: pointer;
     transition: background-color 0.3s ease;
