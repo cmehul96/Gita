@@ -56,8 +56,10 @@ body {
     background-color: #fffefc; /* Background color for the button */
     border-radius: 50%;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    /* transition: background-color 0.3s ease; */
     box-shadow: 0 0px 5px 1px rgba(0, 0, 0, 0.2);
+    border: none;
+    color: #816d50;
 }
 
 .image-container {
