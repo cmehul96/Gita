@@ -16,9 +16,6 @@ body {
 }
 
 .header img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
     height: 24px;
     margin-top: 12px;
     /*border-bottom: 1px solid #CC9366;*/
