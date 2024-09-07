@@ -1445,7 +1445,7 @@ const verses = {
 // }
 
 function updateContent() {
-    console.log(chapters[curentLanguage][currentChapter - 1]);
+    console.log(chapters[currentChapter - 1]);
     document.getElementById('chapter-title').innerHTML = chapters[currentChapter - 1];
     document.getElementById('verse-text').innerHTML = `<p>${verses[currentChapter][currentVerse - 1]}</p>`;
     document.getElementById('page-number').textContent = `${currentChapter}.${currentVerse}`;
