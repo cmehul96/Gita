@@ -19,7 +19,7 @@ body {
     text-align: center;
     padding: 10px;
     background-color: #f6f5f0;
-    border-bottom: 1px solid #CC9366;
+    /*border-bottom: 1px solid #CC9366;*/
 }
 
 .header h1 {
