@@ -1,41 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    
-    <title>MyGita</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Gita</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <img id="logo" src="https://raw.githubusercontent.com/cmehul96/Gita/feb219fa5d47258f4b459911557948bab6dc523d/Gita_Images/Gita_Logo.svg" alt="MyGita">
-        </div>
-        <div class="content">
-            <div class="navigation">
-                <button class="nav-button" onclick="prevChapter()">&lt;</button>
-                <h2 id="chapter-title"></h2>
-                <button class="nav-button" onclick="nextChapter()">&gt;</button>
-            </div>
-            <div class="image-container">
-                <img id="verseImage" src="" alt="Illustration">
-            </div>
-            <div class="text" id="verse-text">
-                <!--<p></p>-->
-            </div>
-            <div class="footer">
-                <button class="footer-button" onclick="prevVerse()">Previous</button>
-                <span class="page-number" id="page-number">1.1</span>
-                <button class="footer-button" onclick="nextVerse()">Next</button>
-            </div>
-            <audio id="verse-audio" preload="auto">
-                <source src="" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-        </div>
+  <div class="container">
+    <!-- Top Section with Language Toggle -->
+    <header>
+      <div class="logo">My Gita</div>
+      <div class="language-toggle">
+        <button id="englishBtn" class="language-btn active">English</button>
+        <button id="hindiBtn" class="language-btn">हिन्दी</button>
+      </div>
+    </header>
+
+    <!-- Chapter Index -->
+    <nav class="chapter-index">
+      <!-- Chapter Index with Clickable Numbers -->
+      <ul>
+        <!-- Each number is clickable to navigate to the respective chapter -->
+        <li><button class="chapter-btn" data-chapter="1">01</button></li>
+        <li><button class="chapter-btn" data-chapter="2">02</button></li>
+        <li><button class="chapter-btn" data-chapter="3">03</button></li>
+        <li><button class="chapter-btn" data-chapter="4">04</button></li>
+        <li><button class="chapter-btn" data-chapter="5">05</button></li>
+        <li><button class="chapter-btn" data-chapter="6">06</button></li>
+        <li><button class="chapter-btn" data-chapter="7">07</button></li>
+        <li><button class="chapter-btn" data-chapter="8">08</button></li>
+        <li><button class="chapter-btn" data-chapter="9">09</button></li>
+        <li><button class="chapter-btn" data-chapter="10">10</button></li>
+        <li><button class="chapter-btn" data-chapter="11">11</button></li>
+        <li><button class="chapter-btn" data-chapter="12">12</button></li>
+        <li><button class="chapter-btn" data-chapter="13">13</button></li>
+        <li><button class="chapter-btn" data-chapter="14">14</button></li>
+        <li><button class="chapter-btn" data-chapter="15">15</button></li>
+        <li><button class="chapter-btn" data-chapter="16">16</button></li>
+        <li><button class="chapter-btn" data-chapter="17">17</button></li>
+        <li><button class="chapter-btn" data-chapter="18">18</button></li>
+      </ul>
+    </nav>
+
+    <!-- Current Chapter Name -->
+    <section class="chapter-name">
+      <h2 id="chapter-title">CH 1. ARJUN VISHAD YOG</h2>
+    </section>
+
+    <!-- Progress Bar -->
+    <div class="progress-bar">
+      <div class="progress"></div>
     </div>
-    <script src="script.js"></script>
+
+    <!-- Verse Image -->
+    <div class="verse-image">
+      <img src="Group 1000002057.jpg" alt="Verse Image" id="verse-image">
+    </div>
+
+    <!-- Verse Sanskrit and Translation -->
+    <div class="verse-content">
+      <p class="sanskrit" id="sanskrit-text">
+        धृतराष्ट्र उवाच |<br>
+        धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |<br>
+        मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||
+      </p>
+      <p class="translation" id="translation">
+        Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?
+      </p>
+    </div>
+
+    <!-- Navigation Buttons -->
+    <div class="navigation">
+      <button id="previousBtn" class="nav-btn">Previous</button>
+      <div id="verseNumberIndicator" class="verse-indicator">1.1</div>
+      <button id="nextBtn" class="nav-btn">Next</button>
+    </div>
+  </div>
+
+  <audio id="background-music" src="chapter1-music.mp3" loop autoplay></audio>
+
+  <script src="script.js"></script>
 </body>
 </html>
