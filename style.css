@@ -166,8 +166,9 @@
     height: 22vh; /* Set the height of the verse container to 36% of the viewport */
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Ensure the verse text is centered vertically */
-    overflow: hidden; /* Prevents content overflow */
+    justify-content: flex-start; /* Ensure the verse text is centered vertically */
+    /*overflow: hidden;  Prevents content overflow */
+    overflow-y: auto;
     margin-left: 24px;
     margin-right: 24px;
     box-shadow: 0 0px 8px 1px rgba(0, 0, 0, 0.1);
