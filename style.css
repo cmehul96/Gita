@@ -43,6 +43,25 @@
     gap: 12px;
     opacity: .8;
   }
+
+  /* Mute button styling */
+.mute-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: #b47637;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 16px;
+  z-index: 1000; /* Ensure the button stays on top */
+}
+
+.mute-btn:hover {
+  background-color: #a46734;
+}
   
   .language-btn {
     background-color: transparent;
