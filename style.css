@@ -57,6 +57,7 @@
   
   .language-btn.active {
     background-color: #b47637;
+    opacity: 0.8;
     color: white;
   }
   
