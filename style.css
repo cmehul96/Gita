@@ -169,7 +169,7 @@
     background-color: #f5f5f5;
     padding: 20px;
     border-radius: 0px 0px 24px 24px;
-    height: 22vh; /* Set the height of the verse container to 36% of the viewport */
+    height: 24vh; /* Set the height of the verse container to 36% of the viewport */
     display: flex;
     flex-direction: column;
     justify-content: flex-start; /* Ensure the verse text is centered vertically */
