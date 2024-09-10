@@ -71,7 +71,11 @@
     margin-left: 20px;
     margin-right: 24px;
     margin-bottom: 24px;
+    scrollbar-width: none;
+  }
 
+  .chapter-index ul::-webkit-scrollbar {
+    display: none; /* Hide scrollbar in Chrome, Safari, and other WebKit browsers */
   }
   
   .chapter-index li {
