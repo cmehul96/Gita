@@ -10,20 +10,23 @@ const chapterButtons = document.querySelectorAll('.chapter-btn');
 // Get the audio element and the mute button
 const backgroundMusic = document.getElementById("backgroundMusic");
 const muteButton = document.getElementById("muteButton");
+const muteIcon = document.getElementById("muteIcon");
 
 // Set autoplay to start playing music automatically
 window.onload = function() {
   backgroundMusic.play(); // Autoplay the background music
 };
 
-// Function to toggle mute/unmute
+// Function to toggle mute/unmute and icon
 muteButton.addEventListener("click", () => {
   if (backgroundMusic.muted) {
     backgroundMusic.muted = false;
-    muteButton.innerText = "Mute";
+    muteIcon.classList.remove("fa-volume-mute");
+    muteIcon.classList.add("fa-volume-up");
   } else {
     backgroundMusic.muted = true;
-    muteButton.innerText = "Unmute";
+    muteIcon.classList.remove("fa-volume-up");
+    muteIcon.classList.add("fa-volume-mute");
   }
 });
 
