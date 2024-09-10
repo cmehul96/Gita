@@ -129,12 +129,14 @@
     margin-bottom: 16px;
     margin-left: 24px;
     margin-right: 24px;
+    opacity: 0.8;
   }
   
   .progress {
     width: 0%; /* Will be adjusted dynamically based on verse */
     height: 100%;
     background-color: #b47637;
+    opacity: 0.8;
   }
   
   .verse-image {
