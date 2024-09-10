@@ -207,14 +207,14 @@
   
   .nav-btn {
     background-color: #b47637;
-    color: white;
+    color: #5e4132;
     padding: 10px 20px;
     border: none;
     cursor: pointer;
     border-radius: 20px;
     transition: background-color 0.3s ease;
     width: 120px;
-    opacity: .8;
+    opacity: .2;
   }
   
   .nav-btn:hover {
