@@ -111,7 +111,7 @@
     background-color: #b47637;
     color: white;
     font-size: 16px;
-    opacity: 1; /* Fully opaque for active button */
+    opacity: 0.8; /* Fully opaque for active button */
     transform-origin: center; /* Ensure the expansion happens from the center */
   }
   
