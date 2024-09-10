@@ -231,9 +231,10 @@
     width: 120px;
   }
   
-  .nav-btn:hover {
+ /* .nav-btn:hover {
     background-color: #a46734;
   }
+*/
   
   .nav-btn:disabled {
     background-color: #ccc;
