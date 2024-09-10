@@ -143,10 +143,9 @@
     justify-content: center;
     align-items: center;
     overflow: hidden; /* Ensures the image is cropped */
-    border-radius: 24px;
+    border-radius: 24px 24px 0px 0px;
     margin-left: 24px;
     margin-right: 24px;
-    margin-bottom: 16px;
     box-shadow: 0 0px 2px 1px rgba(0, 0, 0, 0.2);
   }
   
@@ -163,7 +162,7 @@
   .verse-content {
     background-color: #f9f5f0;
     padding: 20px;
-    border-radius: 24px;
+    border-radius: 0px 0px 24px 24px;
     height: 22vh; /* Set the height of the verse container to 36% of the viewport */
     display: flex;
     flex-direction: column;
@@ -172,7 +171,7 @@
     overflow-y: auto;
     margin-left: 24px;
     margin-right: 24px;
-    box-shadow: 0 0px 8px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 2px 1px rgba(0, 0, 0, 0.2);
   }
   
   .sanskrit {
