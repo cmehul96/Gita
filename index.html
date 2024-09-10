@@ -7,6 +7,13 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <audio id="backgroundMusic" loop autoplay>
+  <source src="path-to-your-music-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<!-- Mute button in the top-right corner -->
+
   <div class="container">
     <!-- Top Section with Language Toggle -->
     <header>
@@ -14,6 +21,7 @@
       <div class="language-toggle">
         <button id="englishBtn" class="language-btn active">English</button>
         <button id="hindiBtn" class="language-btn">हिन्दी</button>
+        <button id="muteButton" class="mute-btn">Mute</button>
       </div>
     </header>
 
