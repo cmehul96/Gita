@@ -7,6 +7,26 @@ const verseImage = document.getElementById("verse-image");
 const chapterTitle = document.getElementById("chapter-title");
 const chapterButtons = document.querySelectorAll('.chapter-btn');
 
+// Get the audio element and the mute button
+const backgroundMusic = document.getElementById("backgroundMusic");
+const muteButton = document.getElementById("muteButton");
+
+// Set autoplay to start playing music automatically
+window.onload = function() {
+  backgroundMusic.play(); // Autoplay the background music
+};
+
+// Function to toggle mute/unmute
+muteButton.addEventListener("click", () => {
+  if (backgroundMusic.muted) {
+    backgroundMusic.muted = false;
+    muteButton.innerText = "Mute";
+  } else {
+    backgroundMusic.muted = true;
+    muteButton.innerText = "Unmute";
+  }
+});
+
 let currentVerse = 1;
 let currentChapter = 1;
 
