@@ -42,25 +42,21 @@
     display: flex;
     gap: 12px;
     opacity: .8;
+    align-items: center; /* Ensure all buttons are aligned vertically */
   }
 
-  /* Mute button styling */
+/* Mute button styling */
 .mute-btn {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  background-color: #b47637;
-  color: white;
+  background-color: transparent;
   border: none;
-  padding: 10px 15px;
-  border-radius: 20px;
   cursor: pointer;
-  font-size: 16px;
-  z-index: 1000; /* Ensure the button stays on top */
+  font-size: 20px; /* Icon size */
+  color: #b47637;
+  padding: 8px;
 }
 
 .mute-btn:hover {
-  background-color: #a46734;
+  color: #a46734;
 }
   
   .language-btn {
