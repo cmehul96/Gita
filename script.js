@@ -1523,17 +1523,16 @@ const englishTranslations = {
   "Abandon all varieties of dharma and just surrender unto me. I will free you from all sinful reactions. Do not fear.",
   "This knowledge should never be explained to those who are not austere, not devoted, or who have no desire to hear, nor to those who are envious of me.",
   "One who shares this supreme secret with my devotees will surely attain pure devotional service and will come to me.",
-  "There is no one among human beings who is dearer to me than the one who teaches this knowledge to others.",
-  "Nor will there ever be anyone on earth more dear to me than such a person.",
-  "Anyone who studies this sacred conversation of ours worships me by their intellect.",
-  "And anyone who listens to it with faith, free from envy, will attain the auspicious worlds of the righteous.",
-  "O Arjuna, have you heard this with an attentive mind? Have your ignorance and doubts been dispelled?",
-  "Arjuna said: My dear Krishna, by your mercy my illusion is now gone. I have regained my memory, and I am now free from doubt. I am ready to act according to your instructions.",
-  "Sanjay said: Thus I heard this wonderful conversation between Krishna and Arjuna. It is so thrilling that my hair stands on end.",
-  "By the grace of Vyasa, I have heard this most confidential discussion between the supreme Lord Krishna and Arjuna, who spoke directly to each other.",
-  "O King, as I remember this wonderful and holy dialogue between Krishna and Arjuna, I rejoice again and again.",
-  "And as I remember the astounding form of Lord Krishna, my joy increases, and I rejoice again and again.",
-  "Wherever there is Lord Krishna, the master of yoga, and wherever there is Arjuna, the supreme archer, there will surely be victory, prosperity, and righteousness. This is my opinion."
+  "No one among humans does greater service to Me than they, nor will there ever be anyone on earth more dear to Me.",
+  "Those who study this sacred dialogue of ours will worship Me through the sacrifice of knowledge. Such is My view.",
+  "Whoever listens to this with faith, without envy, becomes free from sin and attains the auspicious worlds of the righteous.",
+  "O Arjuna, have you listened with your mind focused? Has your ignorance and confusion been dispelled?",
+  "Arjuna said: O Krishna, my confusion is gone, and I have regained my memory. I stand firm, free from doubt. I will act according to Your word.",
+  "Sanjaya said: Thus I heard this wonderful dialogue between Krishna and Arjuna, which fills me with wonder, O King.",
+  "By the grace of Vyasa, I heard this supreme secret, the yoga, directly from Krishna, the master of yoga, as He spoke it Himself.",
+  "O King, as I remember this wondrous and holy dialogue between Krishna and Arjuna, I rejoice again and again.",
+  "As I recall the marvelous form of Krishna, my wonder grows, O King, and I rejoice again and again.",
+  "Wherever there is Krishna, the master of yoga, and Arjuna, the supreme archer, there will surely be prosperity, victory, happiness, and sound morality. This is my opinion."
 ]
 };
 
